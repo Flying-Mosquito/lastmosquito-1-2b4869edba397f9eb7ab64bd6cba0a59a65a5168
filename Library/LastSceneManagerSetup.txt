@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/1 Scene/00 Logo.unity
-  isLoaded: 1
-  isActive: 1
